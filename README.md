@@ -1,4 +1,4 @@
-# airbnb-clone-project
+# alx-airbnb-database
 # Team Roles
 # Technology Stack
 # Database Design
